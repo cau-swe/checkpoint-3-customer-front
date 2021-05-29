@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">소프트웨어공학 피자</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">이메일</string>
+    <string name="prompt_password">비밀번호</string>
+    <string name="action_sign_in">로그인 하기</string>
+    <string name="action_sign_in_short">로그인</string>
+    <string name="welcome">"환영합니다 !"</string>
+    <string name="invalid_username">등록되지 않은 사용자입니다.</string>
+    <string name="invalid_password">비밀번호는 5글자 이상이어야 합니다.</string>
+    <string name="login_failed">"로그인 실패"</string>
+    <string name="title_activity_main">소프트웨어공학 피자</string>
+    <string name="title_home">피자 메뉴</string>
+    <string name="title_dashboard">장바구니</string>
+    <string name="title_notifications">주문 정보 확인</string>
+</resources>
